@@ -1,4 +1,4 @@
-# JWT - Example to create JWT and Store JWK
+# Ioc technique to add Cache for your components
 <img src="https://brunobrito.ghost.io/content/images/2020/06/capa-redes-sociais-2.png" width="480" />
 
 Demo showing how to replace a already registered component at ASP.NET Core Dependency Injection and override his behavior without change it.
